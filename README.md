@@ -14,7 +14,7 @@ or :
 `pip install -r numpy`
 
 ## Features
-PyIGA is also suited for binary integer programming, for wich it was originally designed.
+PyIGA is also suited for binary integer programming, for which it was originally designed.
 
 ## License
 Licensed under a MIT license
